@@ -23,6 +23,7 @@ values('Joe',70000,1),('Jim',90000,1),('Henry',80000,2),('Sam',60000,2),('max',9
 
 
 Display Tables:
+
 select * from department;
 
 select * from employee;
