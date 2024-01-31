@@ -58,3 +58,4 @@ in (select max(e.salary) from employee e group by d.name, e.department_ID);
 | IT | max | 90000 |
 +------------+----------+--------+
 3 rows in set (0.001 sec)
+
